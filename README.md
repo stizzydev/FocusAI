@@ -1,6 +1,6 @@
 FocusAi is your AI-powered productivity companion designed to elevate your focus, boost creativity, and streamline workflows.
 
-🚀 Features
+# 🚀 Features
 
 🔊 Voice Notes Integration
 
@@ -12,7 +12,7 @@ FocusAi is your AI-powered productivity companion designed to elevate your focus
 
 🎯 Clean UI with Tailwind & Next.js
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 React / Next.js
 
@@ -24,7 +24,8 @@ Tailwind CSS
 
 Vercel (for deployment)
 
-📦 Setup
+# 📦 Setup
 
-npm install
-npm run dev
+``` npm install```
+
+```npm run dev```
